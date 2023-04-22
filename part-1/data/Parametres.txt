@@ -19,7 +19,7 @@ Coefficient de performance de la pompe à chaleur (sans unités)
 Consommation électrique maximale de la pompe à chaleur (paramètre) : 1kW
 
 Capacité calorifique du bâtiment
-	Pour chauffer de 1 °C il faut utiliser 0.4 kWh pour 360m^3
+	Pour chauffer de 0.4 °C il faut utiliser 1 kWh pour 360m^3
 	Le bâtiment contient 360 m^3
 
 Coût de l'éléctricité 
